@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../appp-arent/app-dao/app-dao.iml" filepath="$PROJECT_DIR$/../appp-arent/app-dao/app-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appp-arent/app-service/app-service.iml" filepath="$PROJECT_DIR$/../appp-arent/app-service/app-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appp-arent/app-web/app-web.iml" filepath="$PROJECT_DIR$/../appp-arent/app-web/app-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appp-arent.iml" filepath="$PROJECT_DIR$/appp-arent.iml" />
+    </modules>
+  </component>
+</project>
